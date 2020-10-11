@@ -376,3 +376,6 @@ Status:- procs -----------memory---------- ---swap-- -----io---- -system-- -----
 Status:- procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
  r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
  0  0      0 3671860 16239680 3141384    0    0   132   198    0    0  2  1 96  1  0
+Status:- procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2481712 16291196 4274296    0    0   132   198    0    0  2  1 96  1  0
